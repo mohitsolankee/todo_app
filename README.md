@@ -2,7 +2,7 @@
 
 This tutorial will walk you through the process of building of a simple todo-list with Flutter.
 
-Key Features
+**Key Features**
 - Easily add and edit tasks
 - You can mark a task as completed by cliking on Todo Task.
 - You can mark a task as todo by clicking on completed Task.
